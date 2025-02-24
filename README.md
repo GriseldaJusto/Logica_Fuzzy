@@ -14,6 +14,6 @@ O artigo apresenta uma introdução à **Lógica Fuzzy**, abordando sua fundamen
  🛠 *Tecnologias utilizadas*
 - **LaTeX** – Formatação e estruturação do artigo  
 - **BibTeX** – Gerenciamento de referências bibliográficas  
-- **Overleaf/Texmaker** – Edição e compilação do documento
+- **Overleaf** – Edição e compilação do documento
 
  🖊 *Desenvolvido por Griselda Justo e Larissa Dias*  
